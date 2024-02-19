@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 
 ##
+
+
+export const themes = {
+  transparent: {
+    title_color: "006AFF",
+    icon_color: "0579C3",
+    text_color: "417E87",
+    bg_color: "ffffff00",
+  }
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=tokyonight"
