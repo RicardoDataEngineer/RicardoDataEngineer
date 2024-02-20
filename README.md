@@ -3,8 +3,8 @@
 
 <!-- GitStatus/TopLangs -->
 
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical" alt="Top Langs" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical" alt="Top Langs" />
 
 <div style="display: flex; justify-content: center;">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="50" style="margin-right: 20px;"/>
