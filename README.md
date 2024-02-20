@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 <!-- GitStatus/TopLangs -->
 ![RicardoDataEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/RicardoDataEngineer/github-readme-stats)
+
+
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
