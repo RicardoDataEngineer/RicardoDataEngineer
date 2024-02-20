@@ -15,7 +15,7 @@
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" width="40" style="margin-right: 20px;"/>
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" width="50" style="margin-right: 20px;" />
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70" width="70" style="margin-right: 20px;"/>
-        <img align="right"src="https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif"/>
+        <img align="right"src="https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif" height="70" width="70" style="margin-right: 20px;"/>
         
         
 </div>
