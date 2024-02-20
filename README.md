@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/RicardoDataEngineer/github-readme-stats)
 </div>
 
-<div style="display: flex;">
+
+
+<div style="background-color: lightgray; padding: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
