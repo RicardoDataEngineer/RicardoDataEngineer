@@ -24,21 +24,7 @@
         <img align="right"src="https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif" height="140" width="140"/>
     
 
-</div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/RicardoDataEngineer/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/RicardoDataEngineer/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/RicardoDataEngineer/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
           
           
