@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 ![RicardoDataEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/RicardoDataEngineer/github-readme-stats)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="100" width="100" style="position: relative; top: 50px; left: 50px;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="100" width="100" style="position: relative; top: 50px; left: 50px;" />
+
           
