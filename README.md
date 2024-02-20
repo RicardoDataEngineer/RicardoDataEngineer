@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-color: white; padding: 20px;">
+<div style="background-color: lightgray; padding: 20px;">
     <h1>Seu Título</h1>
     <p>Seu conteúdo...</p>
 </div>
