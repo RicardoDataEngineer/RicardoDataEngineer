@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
+          
 </div>
 
           
