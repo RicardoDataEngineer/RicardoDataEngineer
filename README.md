@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <h3>Hi there! I'm Ricardo 👋</h3>
+    <h3>Hi there👋 I'm Ricardo</h3>
 
 <!-- GitStatus/TopLangs -->
 
