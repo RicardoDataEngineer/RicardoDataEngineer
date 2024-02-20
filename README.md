@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="background-color: #f0f0f0; padding: 20px;">
+    <h1>Seu Título</h1>
+    <p>Seu conteúdo...</p>
+</div>
 
 <!-- GitStatus/TopLangs -->
 <div style="display: flex;">
