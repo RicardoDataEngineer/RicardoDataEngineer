@@ -1,10 +1,10 @@
-<center>
-    ### Hi there! I'm Ricardo 👋
+<div style="text-align: center;">
+    <h3>Hi there! I'm Ricardo 👋</h3>
 
 <!-- GitStatus/TopLangs -->
 
-![RicardoDataEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/RicardoDataEngineer/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical" alt="Top Langs" />
 
 <div style="display: flex; justify-content: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="50" style="margin-right: 20px;"/>
@@ -16,9 +16,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" width="50" style="margin-right: 20px;" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" width="50" style="margin-right: 20px;"/>
     </div>
-</center>
+</div>
 
-          
           
 
           
