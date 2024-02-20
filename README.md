@@ -1,4 +1,5 @@
-
+<div style="text-align: center;">
+    <h3>Hi there! I'm Ricardo 👋</h3>
 
 <!-- GitStatus/TopLangs -->
 
@@ -16,7 +17,7 @@
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70" width="70" style="margin-right: 20px;"/>
         
 </div>
-
+</div>
           
 
           
