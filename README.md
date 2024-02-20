@@ -13,7 +13,8 @@
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" width="50" style="margin-right: 20px;"/>
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="50" width="50" style="margin-right: 20px;"/>
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" width="40" style="margin-right: 20px;"/>
-        <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" color="white" height="50" width="50" style="margin-right: 20px;" />
+        <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" width="50" style="margin-right: 20px;" />
+        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70" width="70" style="margin-right: 20px;"/>
     </div>
 </div>
