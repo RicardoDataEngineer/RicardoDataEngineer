@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- GitStatus/TopLangs -->
-<div style="display: flex;">
+<div style="background-color: lightgray; display: inline-block; padding: 10px;">
 
 ![RicardoDataEngineer's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/RicardoDataEngineer/github-readme-stats)
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
-    <i class="devicon-apachekafka-original-wordmark"></i>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="100" width="100" style="margin-right: 20px;" />
           
           
