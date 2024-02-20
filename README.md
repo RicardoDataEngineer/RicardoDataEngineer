@@ -17,6 +17,7 @@
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70" width="70" style="margin-right: 20px;"/>
         
 </div>
+<div style="display: inline_block" color="white" align="center"><br>
         <a href="https://www.linkedin.com/in/ricardo-moreira-86039276" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
