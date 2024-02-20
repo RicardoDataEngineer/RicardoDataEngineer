@@ -6,7 +6,7 @@
 <img height="240em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
 <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical" alt="Top Langs" />
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30" style="margin-right: 20px;"/>
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="30" style="margin-right: 20px;" />
         <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" width="30" style="margin-right: 20px;" />
