@@ -21,7 +21,7 @@
 <div style="display: inline_block"><br>
         <a href="https://www.linkedin.com/in/ricardo-moreira-86039276" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://www.youtube.com/@hicardomoreira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-        <img align="right"src="https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif" height="140" width="140"/>
+        <!-- <img align="right"src="https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif" height="140" width="140"/> -->
         
     
 
