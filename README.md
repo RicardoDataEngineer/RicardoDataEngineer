@@ -2,7 +2,7 @@
     <h3>Hi there👋 I'm Ricardo</h3>
 
 <!-- GitStatus/TopLangs -->
-
+<div style="display: inline_block"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDataEngineer&theme=radical" alt="Top Langs" />
 
