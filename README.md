@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
         <a href="https://www.linkedin.com/in/ricardo-moreira-86039276" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
         <a href="https://www.youtube.com/@hicardomoreira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-        <img align="right"src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/957ddc8e-4c06-41c7-805f-b49f6b538a89/dfqxwai-7413002d-8c9a-48b2-adc9-6ea7b694d542.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1N2RkYzhlLTRjMDYtNDFjNy04MDVmLWI0OWY2YjUzOGE4OVwvZGZxeHdhaS03NDEzMDAyZC04YzlhLTQ4YjItYWRjOS02ZWE3YjY5NGQ1NDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZCv1qn2NPPJ7PkiWUEKMx2v0VNPUh_C9Bpkd-ylZ75M" height="140" width="140"/>
+        <img align="right"src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/957ddc8e-4c06-41c7-805f-b49f6b538a89/dfqxwai-7413002d-8c9a-48b2-adc9-6ea7b694d542.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1N2RkYzhlLTRjMDYtNDFjNy04MDVmLWI0OWY2YjUzOGE4OVwvZGZxeHdhaS03NDEzMDAyZC04YzlhLTQ4YjItYWRjOS02ZWE3YjY5NGQ1NDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZCv1qn2NPPJ7PkiWUEKMx2v0VNPUh_C9Bpkd-ylZ75M" height="240" width="240"/>
         
     
 
