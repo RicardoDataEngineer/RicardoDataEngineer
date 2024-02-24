@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <h3>Hi there👋 I'm Ricardo</h3>
 
-<!-- GitStatus/TopLangs -->"https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif"
+<!-- GitStatus/TopLangs -->
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDataEngineer&theme=radical" alt="Top Langs" />
 
@@ -23,7 +23,7 @@
         <img align="right"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/957ddc8e-4c06-41c7-805f-b49f6b538a89/dfqoep7-d326aa6f-c4c3-4136-a8d6-61fa8c8471c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk1N2RkYzhlLTRjMDYtNDFjNy04MDVmLWI0OWY2YjUzOGE4OVwvZGZxb2VwNy1kMzI2YWE2Zi1jNGMzLTQxMzYtYThkNi02MWZhOGM4NDcxYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjpnY6gbK6JzQr0PteEixajblVEmAq5Sx_VHdxWYdUw" height="240" width="240"/>
         
     
-
+<!-- Thor Gif "https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif" -->
 
 
           
