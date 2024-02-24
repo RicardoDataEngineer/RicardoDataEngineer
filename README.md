@@ -2,9 +2,9 @@
     <h3>Hi there👋 I'm Ricardo</h3>
 
 <!-- GitStatus/TopLangs -->
-<div style="display: inline_block"><br>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDataEngineer&theme=radical" alt="Top Langs" />
+<div style="display: inline_block" align="center"><br>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RicardoDataEngineer&show_icons=true&theme=radical" alt="RicardoDataEngineer's GitHub stats" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDataEngineer&theme=radical" alt="Top Langs" />
 
 <div style="display: inline_block" align="center"><br>
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="50" style="margin-right: 20px;"/>
